@@ -91,6 +91,7 @@ CANVAS_DATA_HOST = 'foo.instructure.com'
 CANVAS_HTTP_URL = 'https://wottsamatta.instructure.com'
 CANVAS_HTTP_TOKENS = ['yet another secret', 'in a list of secrets']
 
+CD2_DYNAMODB_METADATA_TABLE = '<dynamo db table name>'
 CD2_SECRET_NAME = '<secret-string>'
 CD2_INGEST_LAMBDA_NAME = '<lambda name>'
 CD2_ZERO_COUNT_ACCEPTABLE = False
